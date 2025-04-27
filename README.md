@@ -1,4 +1,6 @@
 # apnacollegedemo
+
 This is my first repository
 <br>
-Author- Archita Ramchandani
+Author- Archita (apna college) Ramchandani
+
